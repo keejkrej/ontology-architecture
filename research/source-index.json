@@ -1,0 +1,2578 @@
+{
+  "research_date": "2026-10-14",
+  "scope": "Citation inventory of four existing primary-source evidence notes; not an independent product benchmark or a fresh external-URL availability audit.",
+  "normalization_policy": "Exact URL deduplication with lowercase scheme/host and removal only of recognized tracking parameters. Meaningful/unknown queries, paths, trailing slashes, fragments, and original URLs are preserved; no unsupported equivalence between distinct pages.",
+  "summary": {
+    "unique_primary_source_urls": 111,
+    "substantive_cited_source_urls": 110,
+    "vendor_identification_homepages": 1,
+    "evidence_notes": 4,
+    "publisher_product_project_groups": 30,
+    "commercial_vendor_organizations": 25,
+    "protocol_standards_groups": 3,
+    "inventory_categories": 6,
+    "urls_cited_in_multiple_notes": 0,
+    "unresolved_local_or_markdown_reference_issues": 0
+  },
+  "notes": [
+    {
+      "filename": "enterprise-platforms.md",
+      "label": "Enterprise platforms",
+      "unique_urls": 33,
+      "sha256": "6a716097aee425f0a06d4d8a6c90e06c8dc00fdc73499709128410457040dcff"
+    },
+    {
+      "filename": "vertical-agents.md",
+      "label": "Vertical agents",
+      "unique_urls": 31,
+      "sha256": "e5dbd408498c72364320617d1e973d73185e5481d345fcece4fd21c13d78b011"
+    },
+    {
+      "filename": "collaboration-infrastructure.md",
+      "label": "Collaboration and infrastructure",
+      "unique_urls": 27,
+      "sha256": "b3c95449605821103a2752aa49d3693407c22e4102f31181f3b7aeec9b016c46"
+    },
+    {
+      "filename": "data-platforms-and-assistants.md",
+      "label": "Data platforms and assistants",
+      "unique_urls": 20,
+      "sha256": "4c142208042fe392a81cd222122356e4afc34cb1c5bda2ceed8be6d14e9ed6db"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Palantir",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_count": 6
+    },
+    {
+      "name": "Glean",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_count": 7
+    },
+    {
+      "name": "Microsoft 365 and Work IQ",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Microsoft",
+      "source_count": 5
+    },
+    {
+      "name": "Salesforce Agentforce and Data 360",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_count": 9
+    },
+    {
+      "name": "ServiceNow",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_count": 6
+    },
+    {
+      "name": "Harvey",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_count": 7
+    },
+    {
+      "name": "Legora",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_count": 6
+    },
+    {
+      "name": "Lio",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_count": 6
+    },
+    {
+      "name": "Zip",
+      "category": "Vertical agents",
+      "vendor_organization": "Zip",
+      "source_count": 2
+    },
+    {
+      "name": "Ironclad",
+      "category": "Vertical agents",
+      "vendor_organization": "Ironclad",
+      "source_count": 2
+    },
+    {
+      "name": "Sierra",
+      "category": "Vertical agents",
+      "vendor_organization": "Sierra",
+      "source_count": 2
+    },
+    {
+      "name": "Decagon",
+      "category": "Vertical agents",
+      "vendor_organization": "Decagon",
+      "source_count": 3
+    },
+    {
+      "name": "Hebbia",
+      "category": "Vertical agents",
+      "vendor_organization": "Hebbia",
+      "source_count": 3
+    },
+    {
+      "name": "Atlassian",
+      "category": "Collaboration applications",
+      "vendor_organization": "Atlassian",
+      "source_count": 4
+    },
+    {
+      "name": "Notion",
+      "category": "Collaboration applications",
+      "vendor_organization": "Notion",
+      "source_count": 2
+    },
+    {
+      "name": "Slack",
+      "category": "Collaboration applications",
+      "vendor_organization": "Salesforce",
+      "source_count": 4
+    },
+    {
+      "name": "Microsoft GraphRAG",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Microsoft",
+      "source_count": 4
+    },
+    {
+      "name": "Neo4j",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Neo4j",
+      "source_count": 1
+    },
+    {
+      "name": "Stardog",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Stardog",
+      "source_count": 4
+    },
+    {
+      "name": "LangChain: LangGraph and LangSmith",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "LangChain",
+      "source_count": 4
+    },
+    {
+      "name": "Snowflake",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Snowflake",
+      "source_count": 3
+    },
+    {
+      "name": "Databricks",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Databricks",
+      "source_count": 3
+    },
+    {
+      "name": "OpenAI: ChatGPT Work and Space",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "OpenAI",
+      "source_count": 3
+    },
+    {
+      "name": "Anthropic: Claude",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Anthropic",
+      "source_count": 1
+    },
+    {
+      "name": "Google: Gemini Enterprise",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Google",
+      "source_count": 3
+    },
+    {
+      "name": "Celonis",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Celonis",
+      "source_count": 2
+    },
+    {
+      "name": "Workday",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Workday",
+      "source_count": 3
+    },
+    {
+      "name": "Model Context Protocol (MCP)",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_count": 2
+    },
+    {
+      "name": "Agent2Agent (A2A)",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_count": 2
+    },
+    {
+      "name": "W3C: OWL and SHACL",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_count": 2
+    }
+  ],
+  "integrity_issues": [],
+  "external_link_status": "Not re-fetched for this citation-inventory pass; source access evidence and qualifications belong to the originating notes.",
+  "sources": [
+    {
+      "url": "https://www.palantir.com/docs/foundry/ontology/overview",
+      "title": "Palantir, Ontology building",
+      "group": "Palantir",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.palantir.com/docs/foundry/ontology/overview"
+      ],
+      "original_labels": [
+        "Palantir, Ontology building"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "P1"
+        ]
+      },
+      "id": "SRC-001",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.palantir.com/docs/foundry/ontology/ontology-augmented-generation",
+      "title": "Palantir, Ontology-augmented generation",
+      "group": "Palantir",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.palantir.com/docs/foundry/ontology/ontology-augmented-generation"
+      ],
+      "original_labels": [
+        "Palantir, Ontology-augmented generation"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "P2"
+        ]
+      },
+      "id": "SRC-002",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.palantir.com/docs/foundry/object-permissioning/overview",
+      "title": "Palantir, Object permissioning overview",
+      "group": "Palantir",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.palantir.com/docs/foundry/object-permissioning/overview"
+      ],
+      "original_labels": [
+        "Palantir, Object permissioning overview"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "P3"
+        ]
+      },
+      "id": "SRC-003",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.palantir.com/docs/foundry/action-types/overview",
+      "title": "Palantir, Action types",
+      "group": "Palantir",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.palantir.com/docs/foundry/action-types/overview"
+      ],
+      "original_labels": [
+        "Palantir, Action types"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "P4"
+        ]
+      },
+      "id": "SRC-004",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.palantir.com/docs/foundry/architecture-center/aip-architecture",
+      "title": "Palantir, AIP architecture",
+      "group": "Palantir",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.palantir.com/docs/foundry/architecture-center/aip-architecture"
+      ],
+      "original_labels": [
+        "Palantir, AIP architecture"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "P5"
+        ]
+      },
+      "id": "SRC-005",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.palantir.com/docs/foundry/action-types/consistency-guarantees",
+      "title": "Palantir, Consistency and isolation",
+      "group": "Palantir",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.palantir.com/docs/foundry/action-types/consistency-guarantees"
+      ],
+      "original_labels": [
+        "Palantir, Consistency and isolation"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "P6"
+        ]
+      },
+      "id": "SRC-006",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Palantir",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.glean.com/security/knowledge-graph",
+      "title": "Glean, Knowledge Graph",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://docs.glean.com/security/knowledge-graph"
+      ],
+      "original_labels": [
+        "Glean, Knowledge Graph"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G1"
+        ]
+      },
+      "id": "SRC-007",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.glean.com/security/architecture/data-flow/ingestion",
+      "title": "Glean, Data ingestion flow",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://docs.glean.com/security/architecture/data-flow/ingestion"
+      ],
+      "original_labels": [
+        "Glean, Data ingestion flow"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G2"
+        ]
+      },
+      "id": "SRC-008",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.glean.com/security/architecture/data-flow/processing",
+      "title": "Glean, Data processing flow",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://docs.glean.com/security/architecture/data-flow/processing"
+      ],
+      "original_labels": [
+        "Glean, Data processing flow"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G3"
+        ]
+      },
+      "id": "SRC-009",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.glean.com/agents/concepts/sharing-permissions",
+      "title": "Glean, Sharing and permissions",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://docs.glean.com/agents/concepts/sharing-permissions"
+      ],
+      "original_labels": [
+        "Glean, Sharing and permissions"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G4"
+        ]
+      },
+      "id": "SRC-010",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.glean.com/agents/actions/human-in-the-loop-experience-for-actions",
+      "title": "Glean, Human-in-the-loop confirmations",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://docs.glean.com/agents/actions/human-in-the-loop-experience-for-actions"
+      ],
+      "original_labels": [
+        "Glean, Human-in-the-loop confirmations"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G5"
+        ]
+      },
+      "id": "SRC-011",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.glean.com/press/glean-introduces-third-generation-ai-assistant-new-enterprise-graph-to-enable-the-superintelligent-enterprise",
+      "title": "Glean, Enterprise Graph announcement",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.glean.com/press/glean-introduces-third-generation-ai-assistant-new-enterprise-graph-to-enable-the-superintelligent-enterprise"
+      ],
+      "original_labels": [
+        "Glean, Enterprise Graph announcement"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G6"
+        ]
+      },
+      "id": "SRC-012",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.glean.com/user-guide/assistant/team-chat",
+      "title": "Glean, Team chat",
+      "group": "Glean",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://docs.glean.com/user-guide/assistant/team-chat"
+      ],
+      "original_labels": [
+        "Glean, Team chat"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "G7"
+        ]
+      },
+      "id": "SRC-013",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Glean",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/graph/overview",
+      "title": "Microsoft Learn, Microsoft Graph overview",
+      "group": "Microsoft 365 and Work IQ",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://learn.microsoft.com/en-us/graph/overview"
+      ],
+      "original_labels": [
+        "Microsoft Learn, Microsoft Graph overview"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "M1"
+        ]
+      },
+      "id": "SRC-014",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/overview",
+      "title": "Microsoft Learn, Copilot connectors overview",
+      "group": "Microsoft 365 and Work IQ",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/overview"
+      ],
+      "original_labels": [
+        "Microsoft Learn, Copilot connectors overview"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "M2"
+        ]
+      },
+      "id": "SRC-015",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoftsearch/semantic-index-for-copilot",
+      "title": "Microsoft Learn, Semantic indexing",
+      "group": "Microsoft 365 and Work IQ",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://learn.microsoft.com/en-us/microsoftsearch/semantic-index-for-copilot"
+      ],
+      "original_labels": [
+        "Microsoft Learn, Semantic indexing"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "M3"
+        ]
+      },
+      "id": "SRC-016",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/",
+      "title": "Microsoft Learn, Work IQ overview",
+      "group": "Microsoft 365 and Work IQ",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/"
+      ],
+      "original_labels": [
+        "Microsoft Learn, Work IQ overview"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "M4"
+        ]
+      },
+      "id": "SRC-017",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://support.microsoft.com/en-us/microsoft-365-copilot/how-microsoft-365-copilot-pages-works",
+      "title": "Microsoft Support, How Copilot Pages works",
+      "group": "Microsoft 365 and Work IQ",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://support.microsoft.com/en-us/microsoft-365-copilot/how-microsoft-365-copilot-pages-works"
+      ],
+      "original_labels": [
+        "Microsoft Support, How Copilot Pages works"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "M5"
+        ]
+      },
+      "id": "SRC-018",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://developer.salesforce.com/docs/data/data-cloud-dev/guide/dc-architecture.html",
+      "title": "Salesforce Developers, Data 360 architecture",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://developer.salesforce.com/docs/data/data-cloud-dev/guide/dc-architecture.html"
+      ],
+      "original_labels": [
+        "Salesforce Developers, Data 360 architecture"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S1"
+        ]
+      },
+      "id": "SRC-019",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://developer.salesforce.com/docs/data/data-cloud-dev/guide/dc-object-model.html",
+      "title": "Salesforce Developers, Object Model in Data 360",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://developer.salesforce.com/docs/data/data-cloud-dev/guide/dc-object-model.html"
+      ],
+      "original_labels": [
+        "Salesforce Developers, Object Model in Data 360"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S2"
+        ]
+      },
+      "id": "SRC-020",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://developer.salesforce.com/blogs/2024/10/data-cloud-and-identity-resolution",
+      "title": "Salesforce Developers, Data Cloud and identity resolution",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://developer.salesforce.com/blogs/2024/10/data-cloud-and-identity-resolution"
+      ],
+      "original_labels": [
+        "Salesforce Developers, Data Cloud and identity resolution"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S3"
+        ]
+      },
+      "id": "SRC-021",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://developer.salesforce.com/docs/ai/ground-agentforce-on-website/guide/aes-create-search-index-and-retriever.html",
+      "title": "Salesforce Developers, Create Search Index and Retriever",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://developer.salesforce.com/docs/ai/ground-agentforce-on-website/guide/aes-create-search-index-and-retriever.html"
+      ],
+      "original_labels": [
+        "Salesforce Developers, Create Search Index and Retriever"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S4"
+        ]
+      },
+      "id": "SRC-022",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex",
+      "title": "Salesforce Developers, Build custom actions using Apex",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex"
+      ],
+      "original_labels": [
+        "Salesforce Developers, Build custom actions using Apex"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S5"
+        ]
+      },
+      "id": "SRC-023",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://help.salesforce.com/s/articleView?id=005314096&language=en_US&type=1",
+      "title": "Salesforce Help, Agent context versus user context",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://help.salesforce.com/s/articleView?id=005314096&language=en_US&type=1"
+      ],
+      "original_labels": [
+        "Salesforce Help, Agent context versus user context"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S6"
+        ]
+      },
+      "id": "SRC-024",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://help.salesforce.com/s/articleView?id=ai.agent_multi_orch_script.htm&language=en_US&type=5",
+      "title": "Salesforce Help, Agent Script in Multi-Agent Solutions",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://help.salesforce.com/s/articleView?id=ai.agent_multi_orch_script.htm&language=en_US&type=5"
+      ],
+      "original_labels": [
+        "Salesforce Help, Agent Script in Multi-Agent Solutions"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S7"
+        ]
+      },
+      "id": "SRC-025",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://architect.salesforce.com/docs/architect/fundamentals/guide/enterprise-agentic-architecture.html",
+      "title": "Salesforce Architects, Enterprise Agentic Architecture and Design Patterns",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://architect.salesforce.com/docs/architect/fundamentals/guide/enterprise-agentic-architecture.html"
+      ],
+      "original_labels": [
+        "Salesforce Architects, Enterprise Agentic Architecture and Design Patterns"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S8"
+        ]
+      },
+      "id": "SRC-026",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://help.salesforce.com/s/articleView?id=ai.agent_multi_orch_consider.htm&language=en_US&type=5",
+      "title": "Salesforce Help, Multi-Agent Solutions considerations/limitations",
+      "group": "Salesforce Agentforce and Data 360",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://help.salesforce.com/s/articleView?id=ai.agent_multi_orch_consider.htm&language=en_US&type=5"
+      ],
+      "original_labels": [
+        "Salesforce Help, Multi-Agent Solutions considerations/limitations"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "S9"
+        ]
+      },
+      "id": "SRC-027",
+      "category": "Enterprise platforms",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.servicenow.com/docs/r/intelligent-experiences/knowledge-graph/exploring-knowledge-graph.html",
+      "title": "ServiceNow, Exploring Knowledge Graph",
+      "group": "ServiceNow",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.servicenow.com/docs/r/intelligent-experiences/knowledge-graph/exploring-knowledge-graph.html"
+      ],
+      "original_labels": [
+        "ServiceNow, Exploring Knowledge Graph"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "N1"
+        ]
+      },
+      "id": "SRC-028",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/brief/servicenow-blueprint-for-agentic-business-the-technical-foundation.pdf",
+      "title": "ServiceNow, Blueprint for Agentic Business: Technical Foundation",
+      "group": "ServiceNow",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/brief/servicenow-blueprint-for-agentic-business-the-technical-foundation.pdf"
+      ],
+      "original_labels": [
+        "ServiceNow, Blueprint for Agentic Business: Technical Foundation"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "N2"
+        ]
+      },
+      "id": "SRC-029",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.servicenow.com/docs/r/integrate-applications/workflow-data-fabric/primary-connectors-zcc.html?contentId=nd18_b9xcQt_g9jW2_ojsg",
+      "title": "ServiceNow, Primary connectors",
+      "group": "ServiceNow",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.servicenow.com/docs/r/integrate-applications/workflow-data-fabric/primary-connectors-zcc.html?contentId=nd18_b9xcQt_g9jW2_ojsg"
+      ],
+      "original_labels": [
+        "ServiceNow, Primary connectors"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "N3"
+        ]
+      },
+      "id": "SRC-030",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.servicenow.com/community/workflow-data-fabric-articles/zero-copy-connectors-are-here-unlock-real-time-enterprise-data/ta-p/3302004",
+      "title": "ServiceNow employee article, Zero Copy Connectors are here",
+      "group": "ServiceNow",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.servicenow.com/community/workflow-data-fabric-articles/zero-copy-connectors-are-here-unlock-real-time-enterprise-data/ta-p/3302004"
+      ],
+      "original_labels": [
+        "ServiceNow employee article, Zero Copy Connectors are here"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "N4"
+        ]
+      },
+      "id": "SRC-031",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.servicenow.com/docs/r/intelligent-experiences/aia-security-implementation.html",
+      "title": "ServiceNow, Implement access control in AI agents",
+      "group": "ServiceNow",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.servicenow.com/docs/r/intelligent-experiences/aia-security-implementation.html"
+      ],
+      "original_labels": [
+        "ServiceNow, Implement access control in AI agents"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "N5"
+        ]
+      },
+      "id": "SRC-032",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.servicenow.com/docs/r/platform-security/domain-separated-apps.html",
+      "title": "ServiceNow, Application support for domain separation",
+      "group": "ServiceNow",
+      "cited_by": [
+        "enterprise-platforms.md"
+      ],
+      "original_urls": [
+        "https://www.servicenow.com/docs/r/platform-security/domain-separated-apps.html"
+      ],
+      "original_labels": [
+        "ServiceNow, Application support for domain separation"
+      ],
+      "note_reference_ids": {
+        "enterprise-platforms.md": [
+          "N6"
+        ]
+      },
+      "id": "SRC-033",
+      "category": "Enterprise platforms",
+      "vendor_organization": "ServiceNow",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/platform/vault",
+      "title": "Vault",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/platform/vault"
+      ],
+      "original_labels": [
+        "H1: Vault"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-034",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/blog/biglaw-bench-retrieval",
+      "title": "BigLaw Bench — Retrieval",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/blog/biglaw-bench-retrieval"
+      ],
+      "original_labels": [
+        "H2: BigLaw Bench — Retrieval"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-035",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/blog/rebuilding-playbook-review-as-a-multi-agent-system",
+      "title": "Rebuilding Playbook Review as a Multi-Agent System",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/blog/rebuilding-playbook-review-as-a-multi-agent-system"
+      ],
+      "original_labels": [
+        "H3: Rebuilding Playbook Review"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-036",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/blog/how-we-built-harvey-connector-library",
+      "title": "How We Built Harvey Connector Library",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/blog/how-we-built-harvey-connector-library"
+      ],
+      "original_labels": [
+        "H4: Connector Library engineering"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-037",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/blog/building-harveys-mcp-policy-engine",
+      "title": "Building Harvey's MCP Policy Engine",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/blog/building-harveys-mcp-policy-engine"
+      ],
+      "original_labels": [
+        "H5: MCP Policy Engine"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-038",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/platform/spaces",
+      "title": "Spaces",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/platform/spaces"
+      ],
+      "original_labels": [
+        "H6: Spaces"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-039",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.harvey.ai/blog/introducing-biglaw-bench-arena",
+      "title": "Introducing BigLaw Bench Arena",
+      "group": "Harvey",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.harvey.ai/blog/introducing-biglaw-bench-arena"
+      ],
+      "original_labels": [
+        "H7: Arena"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-040",
+      "category": "Vertical agents",
+      "vendor_organization": "Harvey",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legora.com/engineering/scaling-search-for-legal-ai",
+      "title": "Scaling Search for Legal AI",
+      "group": "Legora",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legora.com/engineering/scaling-search-for-legal-ai"
+      ],
+      "original_labels": [
+        "G1: Scaling Search for Legal AI"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-041",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legora.com/engineering/building-scalable-evals-infrastructure-for-legal-agents",
+      "title": "Building Scalable Evals Infrastructure for Legal Agents",
+      "group": "Legora",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legora.com/engineering/building-scalable-evals-infrastructure-for-legal-agents"
+      ],
+      "original_labels": [
+        "G2: Evals infrastructure"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-042",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legora.com/engineering/a-type-safe-centralized-and-authorized-websocket-relay",
+      "title": "A Type-Safe, Centralized and Authorized WebSocket Relay",
+      "group": "Legora",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legora.com/engineering/a-type-safe-centralized-and-authorized-websocket-relay"
+      ],
+      "original_labels": [
+        "G3: Authorized WebSocket relay"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-043",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legora.com/product/aos",
+      "title": "Legora aOS",
+      "group": "Legora",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legora.com/product/aos"
+      ],
+      "original_labels": [
+        "G4: Legora aOS"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-044",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legora.com/blog/introducing-lists",
+      "title": "Introducing Lists",
+      "group": "Legora",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legora.com/blog/introducing-lists"
+      ],
+      "original_labels": [
+        "G5: Introducing Lists"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-045",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legora.com/product/portal",
+      "title": "Portal",
+      "group": "Legora",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legora.com/product/portal"
+      ],
+      "original_labels": [
+        "G6: Portal"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-046",
+      "category": "Vertical agents",
+      "vendor_organization": "Legora",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.lio.ai/",
+      "title": "Lio Technologies: enterprise procurement agents (identification homepage)",
+      "group": "Lio",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.lio.ai/"
+      ],
+      "original_labels": [
+        "lio.ai"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-047",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_role": "vendor_identification_homepage"
+    },
+    {
+      "url": "https://www.lio.ai/newsroom/how-we-created-a-guided-buying-system-employees-actually-want-to-use",
+      "title": "Guided buying",
+      "group": "Lio",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.lio.ai/newsroom/how-we-created-a-guided-buying-system-employees-actually-want-to-use"
+      ],
+      "original_labels": [
+        "L1: Guided buying"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-048",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.lio.ai/customers/tesa",
+      "title": "tesa customer account",
+      "group": "Lio",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.lio.ai/customers/tesa"
+      ],
+      "original_labels": [
+        "L2: tesa customer account"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-049",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.lio.ai/newsroom/enterprise-systems-aren-t-the-bottleneck-manual-execution-is",
+      "title": "Enterprise systems and execution",
+      "group": "Lio",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.lio.ai/newsroom/enterprise-systems-aren-t-the-bottleneck-manual-execution-is"
+      ],
+      "original_labels": [
+        "L3: Enterprise systems and execution"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-050",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.lio.ai/newsroom/from-operational-buyer-to-agent-supervisor-the-procurement-workforce-of-the-future",
+      "title": "Operational buyer to agent supervisor",
+      "group": "Lio",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.lio.ai/newsroom/from-operational-buyer-to-agent-supervisor-the-procurement-workforce-of-the-future"
+      ],
+      "original_labels": [
+        "L4: Operational buyer to agent supervisor"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-051",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.lio.ai/security",
+      "title": "Security",
+      "group": "Lio",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.lio.ai/security"
+      ],
+      "original_labels": [
+        "L5: Security"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-052",
+      "category": "Vertical agents",
+      "vendor_organization": "Lio",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://zip.com/blog/introducing-agentic-procurement-orchestration",
+      "title": "Agentic procurement orchestration",
+      "group": "Zip",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://zip.com/blog/introducing-agentic-procurement-orchestration"
+      ],
+      "original_labels": [
+        "Z1: Agentic procurement orchestration"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-053",
+      "category": "Vertical agents",
+      "vendor_organization": "Zip",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://zip.com/capabilities/workflow-engine",
+      "title": "Workflow engine",
+      "group": "Zip",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://zip.com/capabilities/workflow-engine"
+      ],
+      "original_labels": [
+        "Z2: Workflow engine"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-054",
+      "category": "Vertical agents",
+      "vendor_organization": "Zip",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://legal.ironcladapp.com/fy2026-product-descriptions",
+      "title": "Contractual product descriptions",
+      "group": "Ironclad",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://legal.ironcladapp.com/fy2026-product-descriptions"
+      ],
+      "original_labels": [
+        "I1: Contractual product descriptions"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-055",
+      "category": "Vertical agents",
+      "vendor_organization": "Ironclad",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://ironcladapp.com/resources/articles/contract-review-agent-redlining-playbook",
+      "title": "Contract Review Agent",
+      "group": "Ironclad",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://ironcladapp.com/resources/articles/contract-review-agent-redlining-playbook"
+      ],
+      "original_labels": [
+        "I2: Contract Review Agent"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-056",
+      "category": "Vertical agents",
+      "vendor_organization": "Ironclad",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://sierra.ai/blog/enterprise-grade-agents",
+      "title": "Enterprise-grade agents",
+      "group": "Sierra",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://sierra.ai/blog/enterprise-grade-agents"
+      ],
+      "original_labels": [
+        "S1: Enterprise-grade agents"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-057",
+      "category": "Vertical agents",
+      "vendor_organization": "Sierra",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://sierra.ai/product/context-engine",
+      "title": "Context Engine",
+      "group": "Sierra",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://sierra.ai/product/context-engine"
+      ],
+      "original_labels": [
+        "S2: Context Engine"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-058",
+      "category": "Vertical agents",
+      "vendor_organization": "Sierra",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://decagon.ai/product/aop",
+      "title": "Agent Operating Procedures",
+      "group": "Decagon",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://decagon.ai/product/aop"
+      ],
+      "original_labels": [
+        "D1: Agent Operating Procedures"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-059",
+      "category": "Vertical agents",
+      "vendor_organization": "Decagon",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://decagon.ai/product/integrations",
+      "title": "Integrations",
+      "group": "Decagon",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://decagon.ai/product/integrations"
+      ],
+      "original_labels": [
+        "D2: Integrations"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-060",
+      "category": "Vertical agents",
+      "vendor_organization": "Decagon",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://decagon.ai/product/testing-qa",
+      "title": "Testing and QA",
+      "group": "Decagon",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://decagon.ai/product/testing-qa"
+      ],
+      "original_labels": [
+        "D3: Testing and QA"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-061",
+      "category": "Vertical agents",
+      "vendor_organization": "Decagon",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.hebbia.com/blog/introducing-matrix-the-interface-to-agi",
+      "title": "Introducing Matrix",
+      "group": "Hebbia",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.hebbia.com/blog/introducing-matrix-the-interface-to-agi"
+      ],
+      "original_labels": [
+        "B1: Introducing Matrix"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-062",
+      "category": "Vertical agents",
+      "vendor_organization": "Hebbia",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.hebbia.com/blog/whats-new-june-disclosure-2026",
+      "title": "Hebbia June 2026 release: collaboration, citations, integrations, and agents",
+      "group": "Hebbia",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.hebbia.com/blog/whats-new-june-disclosure-2026"
+      ],
+      "original_labels": [
+        "B2: June release"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-063",
+      "category": "Vertical agents",
+      "vendor_organization": "Hebbia",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.hebbia.com/security/",
+      "title": "Security",
+      "group": "Hebbia",
+      "cited_by": [
+        "vertical-agents.md"
+      ],
+      "original_urls": [
+        "https://www.hebbia.com/security/"
+      ],
+      "original_labels": [
+        "B3: Security"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-064",
+      "category": "Vertical agents",
+      "vendor_organization": "Hebbia",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://developer.atlassian.com/platform/teamwork-graph/what-is-teamwork-graph/",
+      "title": "Atlassian: What is Teamwork Graph?",
+      "group": "Atlassian",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://developer.atlassian.com/platform/teamwork-graph/what-is-teamwork-graph/"
+      ],
+      "original_labels": [
+        "Atlassian: What is Teamwork Graph?"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S1"
+        ]
+      },
+      "id": "SRC-065",
+      "category": "Collaboration applications",
+      "vendor_organization": "Atlassian",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://support.atlassian.com/organization-administration/docs/teamwork-graph-connector-types/",
+      "title": "Atlassian: connector types",
+      "group": "Atlassian",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://support.atlassian.com/organization-administration/docs/teamwork-graph-connector-types/"
+      ],
+      "original_labels": [
+        "Atlassian: connector types"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S2"
+        ]
+      },
+      "id": "SRC-066",
+      "category": "Collaboration applications",
+      "vendor_organization": "Atlassian",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://support.atlassian.com/organization-administration/docs/how-connector-permissions-are-kept-in-sync/",
+      "title": "Atlassian: permission synchronization",
+      "group": "Atlassian",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://support.atlassian.com/organization-administration/docs/how-connector-permissions-are-kept-in-sync/"
+      ],
+      "original_labels": [
+        "Atlassian: permission synchronization"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S3"
+        ]
+      },
+      "id": "SRC-067",
+      "category": "Collaboration applications",
+      "vendor_organization": "Atlassian",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://support.atlassian.com/jira-software-cloud/docs/collaborate-on-work-items-with-ai-agents/",
+      "title": "Atlassian: agent collaboration in Jira",
+      "group": "Atlassian",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://support.atlassian.com/jira-software-cloud/docs/collaborate-on-work-items-with-ai-agents/"
+      ],
+      "original_labels": [
+        "Atlassian: agent collaboration in Jira"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S4"
+        ]
+      },
+      "id": "SRC-068",
+      "category": "Collaboration applications",
+      "vendor_organization": "Atlassian",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.notion.com/help/custom-agents",
+      "title": "Notion: Custom Agents",
+      "group": "Notion",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://www.notion.com/help/custom-agents"
+      ],
+      "original_labels": [
+        "Notion: Custom Agents"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S5"
+        ]
+      },
+      "id": "SRC-069",
+      "category": "Collaboration applications",
+      "vendor_organization": "Notion",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.notion.com/help/custom-agents-sharing-and-permissions",
+      "title": "Notion: agent sharing and permissions",
+      "group": "Notion",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://www.notion.com/help/custom-agents-sharing-and-permissions"
+      ],
+      "original_labels": [
+        "Notion: agent sharing and permissions"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S6"
+        ]
+      },
+      "id": "SRC-070",
+      "category": "Collaboration applications",
+      "vendor_organization": "Notion",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://slack.com/help/articles/33076000248851-Work-with-AI-agents-in-Slack",
+      "title": "Slack: work with agents",
+      "group": "Slack",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://slack.com/help/articles/33076000248851-Work-with-AI-agents-in-Slack"
+      ],
+      "original_labels": [
+        "Slack: work with agents"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S7"
+        ]
+      },
+      "id": "SRC-071",
+      "category": "Collaboration applications",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.slack.dev/ai/agent-context-management/",
+      "title": "Slack: context management",
+      "group": "Slack",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.slack.dev/ai/agent-context-management/"
+      ],
+      "original_labels": [
+        "Slack: context management"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S8"
+        ]
+      },
+      "id": "SRC-072",
+      "category": "Collaboration applications",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.slack.dev/apis/web-api/real-time-search-api/",
+      "title": "Slack: Real-time Search",
+      "group": "Slack",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.slack.dev/apis/web-api/real-time-search-api/"
+      ],
+      "original_labels": [
+        "Slack: Real-time Search"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S9"
+        ]
+      },
+      "id": "SRC-073",
+      "category": "Collaboration applications",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.slack.dev/ai/agent-governance/",
+      "title": "Slack: governance and trust",
+      "group": "Slack",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.slack.dev/ai/agent-governance/"
+      ],
+      "original_labels": [
+        "Slack: governance and trust"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S27"
+        ]
+      },
+      "id": "SRC-074",
+      "category": "Collaboration applications",
+      "vendor_organization": "Salesforce",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://microsoft.github.io/graphrag/index/overview/",
+      "title": "GraphRAG: indexing",
+      "group": "Microsoft GraphRAG",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://microsoft.github.io/graphrag/index/overview/"
+      ],
+      "original_labels": [
+        "GraphRAG: indexing"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S10"
+        ]
+      },
+      "id": "SRC-075",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://microsoft.github.io/graphrag/query/overview/",
+      "title": "GraphRAG: query overview",
+      "group": "Microsoft GraphRAG",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://microsoft.github.io/graphrag/query/overview/"
+      ],
+      "original_labels": [
+        "GraphRAG: query overview"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S11"
+        ]
+      },
+      "id": "SRC-076",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://microsoft.github.io/graphrag/query/global_search/",
+      "title": "GraphRAG: global search",
+      "group": "Microsoft GraphRAG",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://microsoft.github.io/graphrag/query/global_search/"
+      ],
+      "original_labels": [
+        "GraphRAG: global search"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S12"
+        ]
+      },
+      "id": "SRC-077",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.16130",
+      "title": "GraphRAG original research paper: query-focused summarization (arXiv:2404.16130)",
+      "group": "Microsoft GraphRAG",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://arxiv.org/abs/2404.16130"
+      ],
+      "original_labels": [
+        "GraphRAG research paper"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S13"
+        ]
+      },
+      "id": "SRC-078",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Microsoft",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://neo4j.com/docs/neo4j-graphrag-python/current/user_guide_rag.html",
+      "title": "Neo4j: GraphRAG retrievers",
+      "group": "Neo4j",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://neo4j.com/docs/neo4j-graphrag-python/current/user_guide_rag.html"
+      ],
+      "original_labels": [
+        "Neo4j: GraphRAG retrievers"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S14"
+        ]
+      },
+      "id": "SRC-079",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Neo4j",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.stardog.com/virtual-graphs/",
+      "title": "Stardog: Virtual Graphs",
+      "group": "Stardog",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.stardog.com/virtual-graphs/"
+      ],
+      "original_labels": [
+        "Stardog: Virtual Graphs"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S15"
+        ]
+      },
+      "id": "SRC-080",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Stardog",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.stardog.com/inference-engine/",
+      "title": "Stardog: inference engine",
+      "group": "Stardog",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.stardog.com/inference-engine/"
+      ],
+      "original_labels": [
+        "Stardog: inference engine"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S16"
+        ]
+      },
+      "id": "SRC-081",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Stardog",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.stardog.com/operating-stardog/security/named-graph-security",
+      "title": "Stardog: named-graph security",
+      "group": "Stardog",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.stardog.com/operating-stardog/security/named-graph-security"
+      ],
+      "original_labels": [
+        "Stardog: named-graph security"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S17"
+        ]
+      },
+      "id": "SRC-082",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Stardog",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.stardog.com/operating-stardog/security/virtual-graph-security",
+      "title": "Stardog: virtual-graph security",
+      "group": "Stardog",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.stardog.com/operating-stardog/security/virtual-graph-security"
+      ],
+      "original_labels": [
+        "Stardog: virtual-graph security"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S18"
+        ]
+      },
+      "id": "SRC-083",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "Stardog",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "title": "LangGraph: persistence",
+      "group": "LangChain: LangGraph and LangSmith",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.langchain.com/oss/python/langgraph/persistence"
+      ],
+      "original_labels": [
+        "LangGraph: persistence"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S19"
+        ]
+      },
+      "id": "SRC-084",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "LangChain",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/langgraph/checkpointers",
+      "title": "LangGraph: checkpointers",
+      "group": "LangChain: LangGraph and LangSmith",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.langchain.com/oss/python/langgraph/checkpointers"
+      ],
+      "original_labels": [
+        "LangGraph: checkpointers"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S20"
+        ]
+      },
+      "id": "SRC-085",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "LangChain",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+      "title": "LangGraph: interrupts",
+      "group": "LangChain: LangGraph and LangSmith",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.langchain.com/oss/python/langgraph/interrupts"
+      ],
+      "original_labels": [
+        "LangGraph: interrupts"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S21"
+        ]
+      },
+      "id": "SRC-086",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "LangChain",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.langchain.com/langsmith/evaluation",
+      "title": "LangSmith: evaluation",
+      "group": "LangChain: LangGraph and LangSmith",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://docs.langchain.com/langsmith/evaluation"
+      ],
+      "original_labels": [
+        "LangSmith: evaluation"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S26"
+        ]
+      },
+      "id": "SRC-087",
+      "category": "Graph and agent infrastructure",
+      "vendor_organization": "LangChain",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.snowflake.com/en/user-guide/views-semantic/overview",
+      "title": "Semantic Views overview",
+      "group": "Snowflake",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.snowflake.com/en/user-guide/views-semantic/overview"
+      ],
+      "original_labels": [
+        "Semantic Views overview"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-088",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Snowflake",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents",
+      "title": "Cortex Agents",
+      "group": "Snowflake",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents"
+      ],
+      "original_labels": [
+        "Cortex Agents"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-089",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Snowflake",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview",
+      "title": "Cortex Search",
+      "group": "Snowflake",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview"
+      ],
+      "original_labels": [
+        "Cortex Search"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-090",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Snowflake",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.databricks.com/aws/en/uc-semantics/",
+      "title": "Unity Catalog semantics",
+      "group": "Databricks",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.databricks.com/aws/en/uc-semantics/"
+      ],
+      "original_labels": [
+        "Unity Catalog semantics"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-091",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Databricks",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.databricks.com/aws/en/genie/genie-ontology",
+      "title": "Genie Ontology",
+      "group": "Databricks",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.databricks.com/aws/en/genie/genie-ontology"
+      ],
+      "original_labels": [
+        "Genie Ontology"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-092",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Databricks",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.databricks.com/blog/operationalizing-genie-ontology-your-data-stack",
+      "title": "Operationalizing Genie Ontology",
+      "group": "Databricks",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://www.databricks.com/blog/operationalizing-genie-ontology-your-data-stack"
+      ],
+      "original_labels": [
+        "Operationalizing Genie Ontology"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-093",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Databricks",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/enterprise/chatgpt-work-overview",
+      "title": "ChatGPT Work overview",
+      "group": "OpenAI: ChatGPT Work and Space",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://learn.chatgpt.com/docs/enterprise/chatgpt-work-overview"
+      ],
+      "original_labels": [
+        "ChatGPT Work overview"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-094",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "OpenAI",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/enterprise/apps-and-connectors",
+      "title": "ChatGPT Work: plugin, app, and connector controls",
+      "group": "OpenAI: ChatGPT Work and Space",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://learn.chatgpt.com/docs/enterprise/apps-and-connectors"
+      ],
+      "original_labels": [
+        "Plugin controls"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-095",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "OpenAI",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/space",
+      "title": "ChatGPT Space: shared pages, files, and human-agent collaboration",
+      "group": "OpenAI: ChatGPT Work and Space",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://learn.chatgpt.com/docs/space"
+      ],
+      "original_labels": [
+        "Space"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-096",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "OpenAI",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://support.claude.com/en/articles/12489464-use-enterprise-search",
+      "title": "Use enterprise search",
+      "group": "Anthropic: Claude",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://support.claude.com/en/articles/12489464-use-enterprise-search"
+      ],
+      "original_labels": [
+        "Use enterprise search"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-097",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Anthropic",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.cloud.google.com/gemini/enterprise/docs",
+      "title": "Gemini Enterprise product documentation",
+      "group": "Google: Gemini Enterprise",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.cloud.google.com/gemini/enterprise/docs"
+      ],
+      "original_labels": [
+        "Product documentation"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-098",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Google",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.cloud.google.com/gemini/enterprise/docs/identity",
+      "title": "Gemini Enterprise: identity and custom-source access controls",
+      "group": "Google: Gemini Enterprise",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.cloud.google.com/gemini/enterprise/docs/identity"
+      ],
+      "original_labels": [
+        "Custom-source access controls"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-099",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Google",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://docs.cloud.google.com/gemini/enterprise/docs/connectors/connect-cloud-storage",
+      "title": "Gemini Enterprise: connect Cloud Storage and configure access",
+      "group": "Google: Gemini Enterprise",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://docs.cloud.google.com/gemini/enterprise/docs/connectors/connect-cloud-storage"
+      ],
+      "original_labels": [
+        "Cloud Storage connector"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-100",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Google",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.celonis.com/news/article/celonis-process-intelligence-graph-provides-a-common-language-for-enterprise-process-performance",
+      "title": "Celonis Process Intelligence Graph: enterprise process context",
+      "group": "Celonis",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://www.celonis.com/news/article/celonis-process-intelligence-graph-provides-a-common-language-for-enterprise-process-performance"
+      ],
+      "original_labels": [
+        "PI Graph explanation"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-101",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Celonis",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.celonis.com/news/press/celonis-showcases-latest-process-intelligence-and-ai-innovations-at-next-2025",
+      "title": "Celonis Next 2025: Process Intelligence and AgentC announcement",
+      "group": "Celonis",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://www.celonis.com/news/press/celonis-showcases-latest-process-intelligence-and-ai-innovations-at-next-2025"
+      ],
+      "original_labels": [
+        "Next 2025 announcement"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-102",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Celonis",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://doc.workday.com/admin-guide/en-us/workday-ai/agents/setup-considerations--agent-system-of-record.html",
+      "title": "About Workday Agents",
+      "group": "Workday",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://doc.workday.com/admin-guide/en-us/workday-ai/agents/setup-considerations--agent-system-of-record.html"
+      ],
+      "original_labels": [
+        "About Workday Agents"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-103",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Workday",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://doc.workday.com/admin-guide/en-us/workday-ai/agents/agent-security/configure-security-policies-for-agents.html",
+      "title": "Security policies for agent skills",
+      "group": "Workday",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://doc.workday.com/admin-guide/en-us/workday-ai/agents/agent-security/configure-security-policies-for-agents.html"
+      ],
+      "original_labels": [
+        "Security policies for agent skills"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-104",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Workday",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.workday.com/en-us/ai-platform/agent-system-of-record.html",
+      "title": "Agent System of Record",
+      "group": "Workday",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://www.workday.com/en-us/ai-platform/agent-system-of-record.html"
+      ],
+      "original_labels": [
+        "Agent System of Record"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-105",
+      "category": "Data platforms, assistants, and organizational operations",
+      "vendor_organization": "Workday",
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://modelcontextprotocol.io/specification/2025-11-25/architecture",
+      "title": "MCP: architecture",
+      "group": "Model Context Protocol (MCP)",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://modelcontextprotocol.io/specification/2025-11-25/architecture"
+      ],
+      "original_labels": [
+        "MCP: architecture"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S22"
+        ]
+      },
+      "id": "SRC-106",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://modelcontextprotocol.io/docs/2025-11-25/tutorials/security/security_best_practices",
+      "title": "MCP: security guidance",
+      "group": "Model Context Protocol (MCP)",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://modelcontextprotocol.io/docs/2025-11-25/tutorials/security/security_best_practices"
+      ],
+      "original_labels": [
+        "MCP: security guidance"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S23"
+        ]
+      },
+      "id": "SRC-107",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://a2a-protocol.org/latest/specification/",
+      "title": "A2A: specification",
+      "group": "Agent2Agent (A2A)",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://a2a-protocol.org/latest/specification/"
+      ],
+      "original_labels": [
+        "A2A: specification"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S24"
+        ]
+      },
+      "id": "SRC-108",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://a2a-protocol.org/latest/topics/a2a-and-mcp/",
+      "title": "A2A: comparison with MCP",
+      "group": "Agent2Agent (A2A)",
+      "cited_by": [
+        "collaboration-infrastructure.md"
+      ],
+      "original_urls": [
+        "https://a2a-protocol.org/latest/topics/a2a-and-mcp/"
+      ],
+      "original_labels": [
+        "A2A: comparison with MCP"
+      ],
+      "note_reference_ids": {
+        "collaboration-infrastructure.md": [
+          "S25"
+        ]
+      },
+      "id": "SRC-109",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.w3.org/TR/owl2-primer/",
+      "title": "OWL 2 Primer",
+      "group": "W3C: OWL and SHACL",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://www.w3.org/TR/owl2-primer/"
+      ],
+      "original_labels": [
+        "OWL 2 Primer"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-110",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_role": "substantive_cited_source"
+    },
+    {
+      "url": "https://www.w3.org/TR/shacl/",
+      "title": "SHACL",
+      "group": "W3C: OWL and SHACL",
+      "cited_by": [
+        "data-platforms-and-assistants.md"
+      ],
+      "original_urls": [
+        "https://www.w3.org/TR/shacl/"
+      ],
+      "original_labels": [
+        "SHACL"
+      ],
+      "note_reference_ids": {},
+      "id": "SRC-111",
+      "category": "Protocols and formal standards",
+      "vendor_organization": null,
+      "source_role": "substantive_cited_source"
+    }
+  ]
+}
